@@ -1,0 +1,6 @@
+C:\Users\Shazad\source\repos\ActionAndController\obj\Debug\net8.0\ActionAndController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shazad\source\repos\ActionAndController\obj\Debug\net8.0\ActionAndController.AssemblyInfoInputs.cache
+C:\Users\Shazad\source\repos\ActionAndController\obj\Debug\net8.0\ActionAndController.AssemblyInfo.cs
+C:\Users\Shazad\source\repos\ActionAndController\obj\Debug\net8.0\ActionAndController.csproj.CoreCompileInputs.cache
+C:\Users\Shazad\source\repos\ActionAndController\obj\Debug\net8.0\ActionAndController.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shazad\source\repos\ActionAndController\obj\Debug\net8.0\ActionAndController.sourcelink.json
