@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35103.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspActions", "AspActions.csproj", "{58DFB8C8-BA94-4566-86F6-0890D479924B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DFB8C8-BA94-4566-86F6-0890D479924B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DFB8C8-BA94-4566-86F6-0890D479924B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DFB8C8-BA94-4566-86F6-0890D479924B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DFB8C8-BA94-4566-86F6-0890D479924B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41572A79-8FF0-4D73-815C-8F72408E4132}
+	EndGlobalSection
+EndGlobal
